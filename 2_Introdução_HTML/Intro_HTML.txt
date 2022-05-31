@@ -1,0 +1,4 @@
+HTML é o elemento básico
+da web, define a estrutura ou
+esqueleto de uma webpage
+

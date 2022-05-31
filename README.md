@@ -1,2 +1,0 @@
-# Dio-desafio-github
-Desafio de Projeto Dio Github

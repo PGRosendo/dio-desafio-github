@@ -1,0 +1,15 @@
+Segue o link que irá te ajudar!
+
+Link: https://comandosgit.github.io/
+
+GIT CONFIG
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+GIT HELP
+git help {comando}
+git {comando} --help
+man git- {comando}
+
+Acesse o link e veja muito mais. 
+
