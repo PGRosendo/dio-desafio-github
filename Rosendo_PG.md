@@ -11,6 +11,7 @@ FORMAÇÃO
 ● Segundo Grau Completo
 ● Análise e Desenvolvimento de Sistema Unifil Londrina - Cursando
 ● StartSe Tech Academy - Front End - Cursando
+● Dio._
 
 EXPERIÊNCIA PROFISSIONAL
 ● Flexdev Automação Comercial – 2021 até a presente data.
